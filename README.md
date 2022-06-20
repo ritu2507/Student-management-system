@@ -36,9 +36,6 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 5. Send Feedback to HOD
 
 
-## Support Developer
-1. Subscribe &  
-
 
 ## How to Install and Run this project?
 
