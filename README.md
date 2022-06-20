@@ -37,17 +37,7 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 
 
 ## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+1. Subscribe &  
 
 
 ## How to Install and Run this project?
@@ -145,8 +135,8 @@ Then Add Email, Username and Password
 **or Use Default Credentials**
 
 *For HOD /SuperAdmin*
-Email: admin@gmail.com
-Password: admin
+Email: ritimarana2001@gmail.com
+Password: qwerty
 
 *For Staff*
 Email: staff@gmail.com
@@ -159,6 +149,6 @@ Password: student
 
 
 ## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
-2. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa "Vijay Thapa on LinkedIn")
+1. Email - ritimarana2001@gmail.com
+2. LinkedIn - [ritimarana](https://www.linkedin.com/in/vijaythapa "Ritima rana on LinkedIn")
 
